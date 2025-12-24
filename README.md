@@ -84,26 +84,22 @@ Full-stack system with authentication, role management, and database integration
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AkesTechSE&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkesTechSE&theme=github_dark"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkesTechSE&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkesTechSE&theme=github_dark"
+    alt="Repos per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkesTechSE&theme=github_dark"
+    alt="Most Commit Language"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkesTechSE&theme=github_dark"
-    alt="Profile Summary"
-  />
-</p>
-
----
 
 ## 🎯 Currently Focused On
 - AI & Machine Learning projects  
