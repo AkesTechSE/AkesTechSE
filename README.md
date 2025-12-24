@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aklilu Abera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=AI+Engineer;Software+Engineer;Full-Stack+Developer;Automation+Specialist;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=AI+Engineer;Software+Engineer;Full-Stack+Developer;Automation+Specialist;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## 🧠 About Me
 
-I’m an **AI and Software Engineer** focused on building **intelligent, scalable, and automated systems**.  
-I enjoy solving complex problems using AI, backend engineering, and automation tools.
+I’m an **AI  and Software Engineer** focused on building **intelligent, scalable, and automated systems**.  
+I enjoy solving complex problems using **AI, backend engineering, and automation tools**.
 
 - 🤖 AI & Machine Learning Engineer  
 - ⚙️ Backend & Full-Stack Developer  
 - 🔁 Automation & Scraping Specialist  
 - 🚀 Production-ready system builder  
-- 📈 Continuous learner
+- 📈 Continuous learner  
 
 ---
 
@@ -47,7 +47,7 @@ I enjoy solving complex problems using AI, backend engineering, and automation t
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge&logo=dotnet)
 
 ---
 
@@ -83,11 +83,24 @@ Full-stack system with authentication, role management, and database integration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkesTechSE&show_icons=true&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AkesTechSE&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkesTechSE&layout=compact&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkesTechSE&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkesTechSE&theme=github_dark"
+    alt="Profile Summary"
+  />
 </p>
 
 ---
@@ -96,7 +109,7 @@ Full-stack system with authentication, role management, and database integration
 - AI & Machine Learning projects  
 - Intelligent automation systems  
 - Scalable backend architectures  
-- Full-stack production apps  
+- Full-stack production applications  
 
 ---
 
