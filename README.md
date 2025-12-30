@@ -111,7 +111,8 @@ Full-stack system with authentication, role management, and database integration
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/AkesTechSE  
-- Email: akililuabera44@gmail.com  
+- Email: akililuabera44@gmail.com
+- Upwork: https://www.upwork.com/freelancers/~01ef05b09a4e009492?mp_source=share
 
 ---
 
