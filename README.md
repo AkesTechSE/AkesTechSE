@@ -32,14 +32,13 @@ I enjoy solving complex problems using **AI, backend engineering, and automation
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
 
 ---
-
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 
 ---
 
